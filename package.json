@@ -55,6 +55,11 @@
         "label": "Night Owl Light (No Italics)",
         "uiTheme": "vs",
         "path": "./themes/Night Owl-Light-color-theme-noitalic.json"
+      },
+      {
+        "label": "Duolingo Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/duolingo-dark-theme.json"
       }
     ]
   }
