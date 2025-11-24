@@ -2,7 +2,7 @@
 /* rs-theme-is-dark: TRUE */
 /* A dark theme for RStudio inspired by the Duolingo color palette. */
 .ace_gutter {
-  background: #4c4c4c;
+  background: #000000;
   color: rgb(108,122,137);
 }
 .ace_print-margin {
@@ -11,7 +11,7 @@
 }
 .ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio
 -themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
-  background-color: #4c4c4c;
+  background-color: #000000;
   color: #f0f0f0;
   font-family: "Monaco", monospace;
 }
@@ -22,7 +22,7 @@
   background: rgba(95, 126, 151, 0.47);
 }
 .ace_selection.ace_start {
-        box-shadow: 0 0 3px 0px #4c4c4c;
+        box-shadow: 0 0 3px 0px #000000;
   border-radius: 2px;
 }
 .ace_marker-layer .ace_step {
@@ -164,7 +164,7 @@
 }
 
 .terminal {
-  background-color: #4c4c4c;
+  background-color: #000000;
   color: #d6deeb;
   font-feature-settings: "liga" 0;
   position: relative;
@@ -193,9 +193,9 @@ al-cursor::before {
    position: absolute;
    background-color: #CCC;
 } .terminal .xterm-viewport {
-  background-color: #4c4c4c;
+  background-color: #000000;
   overflow-y: scroll;
-} .xtermInvertColor { color: #4c4c4c; }
+} .xtermInvertColor { color: #000000; }
 .xtermInvertBgColor { background-color: #d6deeb; }
 .xtermBold { font-weight: bold; }
 .xtermUnderline { text-decoration: underline; }
